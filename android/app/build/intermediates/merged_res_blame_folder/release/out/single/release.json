@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/home/nizam/calculator/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/drawable_splashscreen_image.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/drawable/splashscreen_image.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/drawable_splashscreen.xml.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/drawable/splashscreen.xml"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nizam/calculator/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/nizam/calculator/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

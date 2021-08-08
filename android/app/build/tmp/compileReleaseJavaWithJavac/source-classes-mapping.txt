@@ -1,0 +1,12 @@
+com/calculator/BuildConfig.java
+ com.calculator.BuildConfig
+com/calculator/generated/BasePackageList.java
+ com.calculator.generated.BasePackageList
+com/calculator/MainActivity.java
+ com.calculator.MainActivity
+ com.calculator.MainActivity$1
+com/calculator/MainApplication.java
+ com.calculator.MainApplication
+ com.calculator.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
